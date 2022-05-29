@@ -1,4 +1,10 @@
-<h1 align="center">Hi , I'm Nguyen Quoc Huy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Nguyen Quoc Huy</h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=F743BA&background=BC2F4100&center=true&lines=Full+Stack+Engineer;Always+learning+new+things"></a>
+</p>
+
 - 👀 I’m interested in coding C# and React
 - 🌱 I’m currently learning ReactJs
 - 📫 How to reach me huy27297@gmail.com
