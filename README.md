@@ -47,6 +47,7 @@
 <p align="center">
 	<a href="mailto:huy27297@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://join.skype.com/invite/YOVtSW3uXeff"><img src="https://img.icons8.com/bubbles/50/000000/skype.png" alt="Twitter"/></a>
+	<a href="https://www.linkedin.com/in/huy-nguy%E1%BB%85n-89b528242/"><img src="https://img.icons8.com/bubbles/50/linkedin.png" alt="Linkedin"/></a>
 </p>
 
 
